@@ -1,4 +1,4 @@
-## Strings
+ Strings
 
 Strings are used to hold data represented in text form. They can be of two main types (primitive or objects)
 Strings that are primitives are specified using single or double quotes while strings objects are created using the constructor string().
